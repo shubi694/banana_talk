@@ -25,7 +25,7 @@ header {
 
 textarea {
     width: 100%;
-    min-height: 10rem;
+    min-height: 8rem;
     display: block;
     font-family: "Century Gothic", serif;
 }
@@ -45,7 +45,7 @@ textarea {
 #output {
     border: 1px black solid;
     width: 100%;
-    min-height: 10rem;
+    min-height: 8rem;
     display: block;
 }
 
